@@ -1,0 +1,11 @@
+Team: Laura Riffo and David Grove
+
+MMAP allows a program to manipulate the virtual memory. It is used to map a virtual address space to hardware memory or can map the page to a file. It is also used to read a file into virtual memory (mainly text files).
+
+LONGJMP and SETJMP are mainly used like a try and cathc block. SETJMP saves the environment in a "context" while LONGJMP causes the "context" to be restored from the SETJMP.
+
+Resources:
+http://www.equestionanswers.com/c/setjump-longjump-exception-handling.php
+https://jameshfisher.com/2017/01/26/mmap.html
+https://www.poftut.com/mmap-tutorial-with-examples-in-c-and-cpp-programming-languages/
+https://stackoverflow.com/questions/258091/when-should-i-use-mmap-for-file-access
